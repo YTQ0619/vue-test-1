@@ -2,15 +2,22 @@
   <div class="home-container">
     <h1>Home</h1>
     <Mobanyufa />
+    <Shuxingbangding />
+    <tiaojianxuanrang />
   </div>
 </template>
 
 <script>
 import Mobanyufa from '../components/mobanyvfa.vue';
+import Shuxingbangding from '../components/shuxingbangding.vue';
+import Tiaojianxuanrang from '../components/tiaojianxuanrang.vue';
+
 export default {
   name: 'Home',
   components: {
-    Mobanyufa
+    Mobanyufa,
+    Shuxingbangding,
+    Tiaojianxuanrang,
 
   }
 }
