@@ -4,6 +4,10 @@
     <Mobanyufa />
     <Shuxingbangding />
     <tiaojianxuanrang />
+    <liebiaoxuanrang />
+    <keyguanglizhuangtai />
+    <shijianchuli />
+    <shijianchuancan />
   </div>
 </template>
 
@@ -11,6 +15,10 @@
 import Mobanyufa from '../components/mobanyvfa.vue';
 import Shuxingbangding from '../components/shuxingbangding.vue';
 import Tiaojianxuanrang from '../components/tiaojianxuanrang.vue';
+import liebiaoxuanrang from '../components/liebiaoxuanrang.vue';
+import keyguanglizhuangtai from '../components/keyguanglizhuangtai.vue';
+import shijianchuli from '../components/shijianchuli.vue';
+import shijianchuancan from '../components/shijianchuancan.vue';
 
 export default {
   name: 'Home',
@@ -18,7 +26,10 @@ export default {
     Mobanyufa,
     Shuxingbangding,
     Tiaojianxuanrang,
-
+    liebiaoxuanrang,
+    keyguanglizhuangtai,
+    shijianchuli,
+    shijianchuancan,
   }
 }
 </script>
