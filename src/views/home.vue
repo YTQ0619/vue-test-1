@@ -8,6 +8,17 @@
     <keyguanglizhuangtai />
     <shijianchuli />
     <shijianchuancan />
+    <shijianxiushifu />
+    <shuzubianhuazhence />
+    <jishuanshuxing />
+    <BackgroundEffect />
+    <classbangding />
+    <mobanyvfa />
+    <tiaojianxuanrang />
+    <biaodanshujvbangding />
+    <mobanyingyong />
+    <shuxingbangding />
+    <zujianqiantao />
   </div>
 </template>
 
@@ -19,6 +30,19 @@ import liebiaoxuanrang from '../components/liebiaoxuanrang.vue';
 import keyguanglizhuangtai from '../components/keyguanglizhuangtai.vue';
 import shijianchuli from '../components/shijianchuli.vue';
 import shijianchuancan from '../components/shijianchuancan.vue';
+import shijianxiushifu from '../components/shijianxiushifu.vue';
+import shuzubianhuazhence from '../components/shuzubianhuazhence.vue';
+import jishuanshuxing from '../components/jishuanshuxing.vue';
+import BackgroundEffect from '../components/BackgroundEffect.vue';
+import classbangding from '../components/classbangding.vue';
+import mobanyvfa from '../components/mobanyvfa.vue';
+import tiaojianxuanrang from '../components/tiaojianxuanrang.vue';
+import biaodanshujvbangding from '../components/biaodanshujvbangding.vue';
+import mobanyingyong from '../components/mobanyingyong.vue';
+import shuxingbangding from '../components/shuxingbangding.vue';
+import zujianqiantao from '../components/zujianqiantao.vue';
+
+
 
 export default {
   name: 'Home',
@@ -30,6 +54,17 @@ export default {
     keyguanglizhuangtai,
     shijianchuli,
     shijianchuancan,
+    shijianxiushifu,
+    shuzubianhuazhence,
+    jishuanshuxing,
+    BackgroundEffect,
+    classbangding,
+    mobanyvfa,
+    tiaojianxuanrang,
+    biaodanshujvbangding,
+    mobanyingyong,
+    shuxingbangding,
+    zujianqiantao,
   }
 }
 </script>
