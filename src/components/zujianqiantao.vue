@@ -7,9 +7,9 @@
   </div>
 </template>
 <script>
-import Header from './header.vue';
-import Main from './main.vue';
-import Aside from './aside.vue';
+import Header from '../pages/header.vue';
+import Main from '../pages/main.vue';
+import Aside from '../pages/aside.vue';
 export default {
   name: 'zujianqiantao',
 

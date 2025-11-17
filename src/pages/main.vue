@@ -6,7 +6,7 @@
   </div>
 </template>
 <script>
-import Article from './article.vue';
+import Article from '../pages/article.vue';
 export default {
   name: 'main',
 

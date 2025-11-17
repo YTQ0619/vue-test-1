@@ -7,7 +7,7 @@
   </div>
 </template>
 <script>
-import Item from './item.vue';
+import Item from '../pages/item.vue';
 export default {
   name: "aside",
   components: {
